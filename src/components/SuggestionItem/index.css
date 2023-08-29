@@ -1,0 +1,16 @@
+.item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 0px;
+}
+.arrow-icon {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.suggestion {
+  color: #475569;
+  font-size: 15px;
+}
